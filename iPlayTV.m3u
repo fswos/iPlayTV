@@ -23,7 +23,7 @@ https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:0 tvg-ID="hr" tvg-name="hr-Fernsehen.de",HR Fernsehen
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:0 tvg-ID="ndr-nds" tvg-name="ndr.de",NDR
+#EXTINF:0 tvg-ID="ndr-niedersachsen" tvg-name="ndr.de",NDR
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
 #EXTINF:0 tvg-ID="einsfestival" tvg-name="One.de",ONE
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
