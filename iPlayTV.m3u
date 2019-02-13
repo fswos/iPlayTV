@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0 tvg-ID="ard" tvg-name="DasErste.de", ARD
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/master.m3u8
+#EXTINF:0 tvg-ID="zdf" tvg-name="ZDF.de",ZDF
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+#EXTINF:0 tvg-ID="rbb" tvg-name="rbbBerlin.de",rbb
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:0 tvg-ID="DE_arte" tvg-name="Arte.de",arte DE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0 tvg-ID="wdr-koeln" tvg-name="WDR.de",WDR
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+#EXTINF:0 tvg-ID="zdfneo" tvg-name="ZDFneo.de",ZDF neo
+https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+#EXTINF:0 tvg-ID="zdf-info" tvg-name="ZDFinfo.de",ZDF info
+https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+#EXTINF:0 tvg-ID="phoenix" tvg-name="Phoenix.de",PHOENIX
+https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+#EXTINF:0 tvg-ID="3sat" tvg-name="3sat.de",3Sat
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+#EXTINF:0 tvg-ID="deutsche-welle" tvg-name="DeutscheWelleEn.de",Deutsche Welle
+https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0 tvg-ID="br" tvg-name="BR.de",BR Fernsehen
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:0 tvg-ID="hr" tvg-name="hr-Fernsehen.de",HR Fernsehen
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0 tvg-ID="ndr-hamburg" tvg-name="ndr.de",NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:0 tvg-ID="einsfestival" tvg-name="One.de",ONE
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:0 tvg-ID="sr-fernsehen" tvg-name="SR.de",SR Fernsehen
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:0 tvg-ID="swr-fernsehen-rp" tvg-name="SWRSR.de",SWR
+https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:0 tvg-ID="einsextra" tvg-name="Tagesschau24.de",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 tvg-ID="br-alpha" tvg-name="br-alpha",ARD Alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0 tvg-ID="mdr-sachsen-anhalt" tvg-name="MDRSachsen.de",MDR
+https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+#EXTINF:0 tvg-ID="kika" tvg-name="Kika.de",KIKA
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
+#EXTINF:0 tvg-ID="n24" tvg-name="n24.de",N24
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:0 tvg-ID="" tvg-name="",Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index255.m3u8
+#EXTINF:0 tvg-ID="" tvg-name="",Russia Today
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:0 tvg-ID="" tvg-name="",NHK
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0 tvg-ID="" tvg-name="",TASTEMADE
+https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
